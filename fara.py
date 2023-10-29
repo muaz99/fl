@@ -4,7 +4,7 @@ t = turtle.Turtle()
 turtle.title("For Fara")
 
 screen=turtle. Screen()
-screen.bacolor("black")
+screen.bgcolor("black")
 
 # Drawing heart
 t.color("red")
@@ -28,4 +28,4 @@ t.vrite("Fara", font=("Verdana", 20, "bold"))
 
 t.ht()
 
-turtle.mainloopT
+turtle.mainloop()
